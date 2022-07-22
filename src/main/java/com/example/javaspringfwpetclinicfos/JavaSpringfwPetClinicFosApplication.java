@@ -8,6 +8,7 @@ public class JavaSpringfwPetClinicFosApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(JavaSpringfwPetClinicFosApplication.class, args);
+        System.out.println("Hello world");
     }
 
 }
