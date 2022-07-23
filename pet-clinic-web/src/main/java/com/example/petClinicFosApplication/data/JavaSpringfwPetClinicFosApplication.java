@@ -1,4 +1,4 @@
-package com.example.javaspringfwpetclinicfos;
+package com.example.petClinicFosApplication.data;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -9,6 +9,7 @@ public class JavaSpringfwPetClinicFosApplication {
     public static void main(String[] args) {
         SpringApplication.run(JavaSpringfwPetClinicFosApplication.class, args);
 
-    }
+        System.out.println("Hello world");
 
+    }
 }

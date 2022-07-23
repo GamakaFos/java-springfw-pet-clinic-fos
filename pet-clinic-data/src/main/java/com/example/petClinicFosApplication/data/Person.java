@@ -1,4 +1,4 @@
-package com.example.javaspringfwpetclinicfos.model;
+package com.example.petClinicFosApplication.data;
 
 public class Person {
 
