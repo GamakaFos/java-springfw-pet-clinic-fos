@@ -1,4 +1,4 @@
-package com.example.petClinicFosApplication.data;
+package com.example.petClinicFosApplication.model;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

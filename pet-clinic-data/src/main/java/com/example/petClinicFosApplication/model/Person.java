@@ -1,6 +1,6 @@
-package com.example.petClinicFosApplication.data;
+package com.example.petClinicFosApplication.model;
 
-public class Person {
+public class Person extends BaseEntity{
 
     private String firstName;
     private String lastName;

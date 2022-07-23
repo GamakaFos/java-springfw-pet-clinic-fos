@@ -1,7 +1,6 @@
 package com.example.petClinicFosApplication.services;
 
-import com.example.petClinicFosApplication.data.Owner;
-import com.example.petClinicFosApplication.data.Pet;
+import com.example.petClinicFosApplication.model.Pet;
 
 import java.util.Set;
 
